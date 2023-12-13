@@ -4,6 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=101090&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Augusto;I'm+19+years+old;I'm+from+Brazil;I'm+a+DevSecOps;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Patrick-Augusto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 <div align="left">
   <a href="https://github.com/Patrick-Augusto">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
