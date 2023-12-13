@@ -8,11 +8,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Patrick-Augusto&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="left">
-  <a href="https://github.com/Patrick-Augusto">
-  <img  width="49%" height="195px src="https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Augusto&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=DDA0DD&text_color=c9d1d9&bg_color=0d1117" alt="Camila Inocencio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Augusto&layout=compact&hide_border=true&title_color=9932CC&text_color=DDA0DD&bg_color=0d1117" />
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Patrick-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Patrick-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
