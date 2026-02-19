@@ -3,15 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2A629A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Augusto;I'm+20+years+old;I'm+from+Brazil;I'm+a+DevSecOps;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Patrick-Augusto&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Patrick-Augusto&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&show_icons=true&count_private=true&hide_border=true&title_color=040D12&icon_color=040D12&text_color=040D12&bg_color=2A629A" alt="Patrick Augusto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Augusto&layout=compact&hide_border=true&title_color=040D12&text_color=040D12&bg_color=2A629A" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Patrick-Augusto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 💻 Tech Stack:
@@ -29,6 +27,8 @@
   <a href="https://www.linkedin.com/in/patrick-augusto-pinheiro-da-silva-813139230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
      
  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Patrick-Augusto&limit=5&theme=dark&combine_all_yearly_contributions=true)
  
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A629A&height=120&section=footer"/>
@@ -37,16 +37,7 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Patrick-Augusto&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Patrick-Augusto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Patrick-Augusto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
