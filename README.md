@@ -4,16 +4,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2A629A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Augusto;I'm+20+years+old;I'm+from+Brazil;I'm+a+DevSecOps;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/>
+
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-Augusto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Patrick-Augusto&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+
 </div>
 
 # 💻 Tech Stack:
