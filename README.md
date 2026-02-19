@@ -3,14 +3,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2A629A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Patrick+Augusto;I'm+20+years+old;I'm+from+Brazil;I'm+a+DevSecOps;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Patrick-Augusto&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Patrick-Augusto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-Augusto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Augusto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Patrick-Augusto&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
